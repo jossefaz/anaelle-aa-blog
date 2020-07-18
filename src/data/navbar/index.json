@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Work",
+    "link": "/portfolio",
+    "megaMenu": false,
+    "subMenu": false
+  },
+
+  {
+    "id": 4,
+    "title": "Shop Collection",
+    "link": "/team",
+    "megaMenu": false,
+    "subMenu": false
+  },
+  {
+    "id": 2,
+    "title": "About",
+    "link": "/about",
+    "megaMenu": false,
+    "subMenu": false
+  },
+  {
+    "id": 6,
+    "title": "Contact",
+    "link": "/contact"
+  }
+]
