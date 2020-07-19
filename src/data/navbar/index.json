@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Work",
-    "link": "/portfolio",
+    "link": "/work",
     "megaMenu": false,
     "subMenu": false
   },
@@ -10,7 +10,7 @@
   {
     "id": 4,
     "title": "Shop Collection",
-    "link": "/team",
+    "link": "/shop-collection",
     "megaMenu": false,
     "subMenu": false
   },
