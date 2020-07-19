@@ -9,7 +9,8 @@ const FooterThree = ({ position }) => {
           {socialIcons.map((social) => (
             <a
               style={{
-                padding: "48px",
+                paddingTop: "48px",
+                paddingLeft: "48px",
               }}
               key={social.id}
               href={`https://${social.media}.com/${social.username}`}

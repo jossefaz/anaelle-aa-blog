@@ -10,7 +10,6 @@ const FooterTwo = ({ loadHandler, allItems }) => {
               style={{
                 paddingTop: "48px",
                 paddingLeft: "48px",
-                paddingRight: "48px",
               }}
               className="ml-3"
               key={social.id}

@@ -3,7 +3,7 @@ import NavItem from "./NavItem";
 
 const NavBar = () => {
   return (
-    <div className="header-menu d-lg-flex justify-content-between col-lg-8 d-none">
+    <div className="header-menu d-lg-flex justify-content-end col-lg-8 d-none">
       <nav className="main-menu">
         <ul>
           <NavItem />
