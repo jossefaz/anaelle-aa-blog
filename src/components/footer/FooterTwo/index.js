@@ -7,6 +7,11 @@ const FooterTwo = ({ loadHandler, allItems }) => {
         <div className="row align-items-center">
           {socialIcons.map((social) => (
             <a
+              style={{
+                paddingTop: "48px",
+                paddingLeft: "48px",
+                paddingRight: "48px",
+              }}
               className="ml-3"
               key={social.id}
               href={`https://${social.media}.com/${social.username}`}

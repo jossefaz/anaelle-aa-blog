@@ -8,6 +8,9 @@ const FooterThree = ({ position }) => {
         <Row className={"align-items-center"}>
           {socialIcons.map((social) => (
             <a
+              style={{
+                padding: "48px",
+              }}
               key={social.id}
               href={`https://${social.media}.com/${social.username}`}
               target="_blank"

@@ -8,6 +8,9 @@ const FooterOne = ({ next, prev }) => {
           <div className="footer-search col-lg-4 col-12 order-lg-3 order-2 mb-sm-15 mb-xs-15">
             {socialIcons.map((social) => (
               <a
+                style={{
+                  padding: "48px",
+                }}
                 key={social.id}
                 href={`https://${social.media}.com/${social.username}`}
                 target="_blank"
