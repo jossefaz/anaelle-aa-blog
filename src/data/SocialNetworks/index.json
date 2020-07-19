@@ -1,17 +1,12 @@
 [
   {
     "id": 1,
-    "media": "facebook",
-    "username": "hasthemes"
-  },
-  {
-    "id": 2,
-    "media": "twitter",
-    "username": "hasthemes"
+    "media": "etsy",
+    "username": "il-en/shop/AnaelleAA"
   },
   {
     "id": 3,
-    "media": "dribbble",
-    "username": "hastech"
+    "media": "instagram",
+    "username": "anaelle_attaz"
   }
 ]
