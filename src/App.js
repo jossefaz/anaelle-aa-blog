@@ -109,7 +109,10 @@ const App = () => {
           path={`${process.env.PUBLIC_URL + "/about"}`}
           component={AboutPage}
         />
-        <Route path={`${process.env.PUBLIC_URL + "/"}`} component={Home} />
+        <Route
+          path={`${process.env.PUBLIC_URL + "/"}`}
+          component={PortfolioGridThreeColumnPage}
+        />
 
         <Route exact component={ErrorPage} />
       </Switch>
