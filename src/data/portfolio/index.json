@@ -1,17 +1,17 @@
 [
   {
     "id": 1,
+    "title": "Nidda",
+    "category": "Craft",
+    "thumb": "portfolio/Nidda/niddaPrev.jpg",
+    "link": "Nidda"
+  },
+  {
+    "id": 2,
     "title": "Oil Paint Dog",
     "category": "Design",
     "thumb": "portfolio/portfolio-1.jpg",
     "link": "Oil-Paint-Dog"
-  },
-  {
-    "id": 2,
-    "title": "Nida",
-    "category": "Design",
-    "thumb": "portfolio/portfolio-2.jpg",
-    "link": "Nida"
   },
   {
     "id": 3,

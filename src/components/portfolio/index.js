@@ -10,7 +10,7 @@ const Portfolio = ({ thumb, classes, title, category, variant, link }) => {
       >
         {variant === "column" ? (
           <div className="portfolio-image">
-            <img src={require("../../assets/images/" + thumb)} alt={title} />
+            <img src={require(`../../assets/images/${thumb}`)} alt={title} />
           </div>
         ) : (
           <div

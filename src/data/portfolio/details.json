@@ -10,13 +10,15 @@
     }
   },
   {
-    "title": "Nida",
-    "category": "Design",
-    "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid",
-    "previewImages": ["portfolio-1.jpg", "portfolio-2.jpg"],
-    "link": "Nida",
+    "title": "Nidda",
+    "category": "Craft",
+    "description": "As part of an enamel course on menstruation in its religious context, i.e .: the woman shook. During this period she checks for signs of bleeding through a tissue called a 'witness' and often in the case of a stain she has to send this witness to the rabbi to decide if it is menstrual blood or just bleeding. The private, the intimate may at any moment become a public thing. The very act of inserting the 'witness' into our intimacy and searching for the 'stain' or rather the 'non-stain' takes the inside out.",
+    "previewImages": ["Nidda/nidda1.jpg", "Nidda/nidda2.jpg"],
+    "link": "Nidda",
     "meta": {
-      "date": "01/05/2020"
+      "Supervisor": "Shirli Bar Amotz",
+      "Materials and technique": "Hot enamel, Plique-à-jour and copper",
+      "date": "01/05/2018"
     }
   }
 ]
