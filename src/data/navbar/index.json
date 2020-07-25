@@ -8,13 +8,6 @@
   },
 
   {
-    "id": 4,
-    "title": "Shop Collection",
-    "link": "/shop-collection",
-    "megaMenu": false,
-    "subMenu": false
-  },
-  {
     "id": 2,
     "title": "About",
     "link": "/about",
