@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/anaelle-aa-blog/precache-manifest.58c1c8775bc7e33b67309922cd739698.js"
+  "/anaelle-aa-blog/precache-manifest.930dca766f12a44489a940cb45703416.js"
 );
 
 self.addEventListener('message', (event) => {

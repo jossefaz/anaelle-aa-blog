@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ce2d528d38c4023916f42437d970fcc6",
+    "revision": "489441a2f85009f9e4e25a1b6dc0891a",
     "url": "/anaelle-aa-blog/index.html"
   },
   {
-    "revision": "631400ba55ffdead23c1",
+    "revision": "1eff69ec5d70d2dc4bc7",
     "url": "/anaelle-aa-blog/static/css/2.f784d1b5.chunk.css"
   },
   {
-    "revision": "a868255c7abb81e2da0b",
+    "revision": "a65c1c3b25ccfdd5b09a",
     "url": "/anaelle-aa-blog/static/css/main.485c2152.chunk.css"
   },
   {
-    "revision": "631400ba55ffdead23c1",
-    "url": "/anaelle-aa-blog/static/js/2.b7e62a93.chunk.js"
+    "revision": "1eff69ec5d70d2dc4bc7",
+    "url": "/anaelle-aa-blog/static/js/2.dc38de0e.chunk.js"
   },
   {
     "revision": "d77c619ca2e803ff4203c09914a159e3",
-    "url": "/anaelle-aa-blog/static/js/2.b7e62a93.chunk.js.LICENSE.txt"
+    "url": "/anaelle-aa-blog/static/js/2.dc38de0e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a868255c7abb81e2da0b",
-    "url": "/anaelle-aa-blog/static/js/main.8c5ba5f3.chunk.js"
+    "revision": "a65c1c3b25ccfdd5b09a",
+    "url": "/anaelle-aa-blog/static/js/main.7c101119.chunk.js"
   },
   {
     "revision": "9d1501c62a9ad114b79c",
@@ -66,6 +66,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0a8f0dff9d80807d7c29bb251e6dce5b",
     "url": "/anaelle-aa-blog/static/media/hero-bg.0a8f0dff.jpg"
+  },
+  {
+    "revision": "902df0b098dfed9586693ac4e688a5f1",
+    "url": "/anaelle-aa-blog/static/media/nidda1.902df0b0.jpg"
+  },
+  {
+    "revision": "f1b8d4fe302219f39f4051b65d3cfbae",
+    "url": "/anaelle-aa-blog/static/media/nidda2.f1b8d4fe.jpg"
+  },
+  {
+    "revision": "a6d38c01a3ca7f2b1797163d8fc2f13f",
+    "url": "/anaelle-aa-blog/static/media/niddaPrev.a6d38c01.jpg"
   },
   {
     "revision": "84287d09b8053c6fa598893b8910786a",
