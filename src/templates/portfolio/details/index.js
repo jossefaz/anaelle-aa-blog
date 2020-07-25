@@ -1,31 +1,31 @@
-import React from 'react';
-import {Container, Row, Col} from 'react-bootstrap';
+import React from "react";
+import { Container, Row, Col } from "react-bootstrap";
 import PageContainer from "../../../container/CustomPage";
 import PortfolioDetailsThumb from "./thumbnail";
 import PortfolioDetailsContent from "./content";
-import portfolioDetailsData from '../../../data/portfolio/details'
 
-const TemplatePortfolioDetails = () => {
-    return (
-        <PageContainer classes={'bg-grey'}>
-            <Container>
-                <Row>
-                    <Col lg={7}>
-                        <PortfolioDetailsThumb images={portfolioDetailsData.previewImages}/>
-                    </Col>
+const TemplatePortfolioDetails = ({ config }) => {
+  const { previewImages, title, category, description, meta } = config;
+  return (
+    <PageContainer classes={"bg-grey"}>
+      <Container>
+        <Row>
+          <Col lg={7}>
+            <PortfolioDetailsThumb images={previewImages} />
+          </Col>
 
-                    <Col lg={5}>
-                        <PortfolioDetailsContent
-                            title={portfolioDetailsData.title}
-                            category={portfolioDetailsData.category}
-                            description={portfolioDetailsData.description}
-                            meta={portfolioDetailsData.meta}
-                        />
-                    </Col>
-                </Row>
-            </Container>
-        </PageContainer>
-    );
+          <Col lg={5}>
+            <PortfolioDetailsContent
+              title={title}
+              category={category}
+              description={description}
+              meta={meta}
+            />
+          </Col>
+        </Row>
+      </Container>
+    </PageContainer>
+  );
 };
 
 export default TemplatePortfolioDetails;

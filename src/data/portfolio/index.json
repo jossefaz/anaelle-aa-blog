@@ -3,13 +3,15 @@
     "id": 1,
     "title": "Oil Paint Dog",
     "category": "Design",
-    "thumb": "portfolio/portfolio-1.jpg"
+    "thumb": "portfolio/portfolio-1.jpg",
+    "link": "Oil-Paint-Dog"
   },
   {
     "id": 2,
-    "title": "Hardcover Book Cover",
-    "category": "Photography",
-    "thumb": "portfolio/portfolio-2.jpg"
+    "title": "Nida",
+    "category": "Design",
+    "thumb": "portfolio/portfolio-2.jpg",
+    "link": "Nida"
   },
   {
     "id": 3,

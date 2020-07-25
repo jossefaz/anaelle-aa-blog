@@ -42,8 +42,14 @@ const App = () => {
           component={ServicePage}
         />
         <Route
-          path={`${process.env.PUBLIC_URL + "/portfolio-details"}`}
-          component={PortfolioDetailsPage}
+          path={`${process.env.PUBLIC_URL}/portfolio-details/:link`}
+          component={(props) => {
+            const link = props.match.params.link;
+            if (link) {
+              return <PortfolioDetailsPage link={link} />;
+            }
+            return <ErrorPage />;
+          }}
         />
         <Route
           path={`${
