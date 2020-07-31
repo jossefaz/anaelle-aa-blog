@@ -5,13 +5,13 @@ import PortfolioDetailsThumb from "./thumbnail";
 import PortfolioDetailsContent from "./content";
 
 const TemplatePortfolioDetails = ({ config }) => {
-  const { previewImages, title, category, description, meta } = config;
+  const { previewImages, title, category, description, meta, videos } = config;
   return (
     <PageContainer classes={"bg-grey"}>
       <Container>
         <Row>
           <Col lg={7}>
-            <PortfolioDetailsThumb images={previewImages} />
+            <PortfolioDetailsThumb images={previewImages} videos={videos} />
           </Col>
 
           <Col lg={5}>
