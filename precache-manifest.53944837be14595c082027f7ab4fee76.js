@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "80f2994fbda0d7dd5b98b7d5aaacb025",
+    "revision": "a449f776edae73b29430d9a3315dd85b",
     "url": "/anaelle-aa-blog/index.html"
   },
   {
-    "revision": "d3950b28ebda9fb61291",
+    "revision": "c20ee0e963edf311112e",
     "url": "/anaelle-aa-blog/static/css/2.f784d1b5.chunk.css"
   },
   {
-    "revision": "2b64afb09223e9658286",
-    "url": "/anaelle-aa-blog/static/css/main.485c2152.chunk.css"
+    "revision": "a6df96ae12946e801a18",
+    "url": "/anaelle-aa-blog/static/css/main.782008d4.chunk.css"
   },
   {
-    "revision": "d3950b28ebda9fb61291",
-    "url": "/anaelle-aa-blog/static/js/2.a044df21.chunk.js"
+    "revision": "c20ee0e963edf311112e",
+    "url": "/anaelle-aa-blog/static/js/2.cf89589b.chunk.js"
   },
   {
     "revision": "d77c619ca2e803ff4203c09914a159e3",
-    "url": "/anaelle-aa-blog/static/js/2.a044df21.chunk.js.LICENSE.txt"
+    "url": "/anaelle-aa-blog/static/js/2.cf89589b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2b64afb09223e9658286",
-    "url": "/anaelle-aa-blog/static/js/main.28b39f11.chunk.js"
+    "revision": "a6df96ae12946e801a18",
+    "url": "/anaelle-aa-blog/static/js/main.3b734aa6.chunk.js"
   },
   {
     "revision": "9d1501c62a9ad114b79c",
@@ -98,5 +98,37 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "aca54e4d62bf00e7ef808e315e33ff03",
     "url": "/anaelle-aa-blog/static/media/slider-bg.aca54e4d.jpg"
+  },
+  {
+    "revision": "c0b7b7ad1c9a1154525805de497b965e",
+    "url": "/anaelle-aa-blog/static/media/synetique1.c0b7b7ad.mp4"
+  },
+  {
+    "revision": "cf8ba37529f977d19aa1172f02af1aeb",
+    "url": "/anaelle-aa-blog/static/media/synetique1.cf8ba375.jpg"
+  },
+  {
+    "revision": "a82f63a75cad22fbf120c71bbd6352b8",
+    "url": "/anaelle-aa-blog/static/media/synetique2.a82f63a7.jpg"
+  },
+  {
+    "revision": "b1c42249f35b88400fbd63fb05e38318",
+    "url": "/anaelle-aa-blog/static/media/synetique2.b1c42249.mp4"
+  },
+  {
+    "revision": "135283c39f00dd72d7d757adcdbb8686",
+    "url": "/anaelle-aa-blog/static/media/synetique3.135283c3.jpg"
+  },
+  {
+    "revision": "fdf953679b57ab933359aea7c243f6a4",
+    "url": "/anaelle-aa-blog/static/media/synetique3.fdf95367.mp4"
+  },
+  {
+    "revision": "b89297861be37b828a160f92a7a7d450",
+    "url": "/anaelle-aa-blog/static/media/synetique4.b8929786.jpg"
+  },
+  {
+    "revision": "b89297861be37b828a160f92a7a7d450",
+    "url": "/anaelle-aa-blog/static/media/synetique5.b8929786.jpg"
   }
 ]);
