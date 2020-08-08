@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a449f776edae73b29430d9a3315dd85b",
+    "revision": "bdf4373fc5c10cffdbc69fb4ddcbb7e8",
     "url": "/anaelle-aa-blog/index.html"
   },
   {
-    "revision": "c20ee0e963edf311112e",
+    "revision": "a033f7166e667d09c936",
     "url": "/anaelle-aa-blog/static/css/2.f784d1b5.chunk.css"
   },
   {
-    "revision": "a6df96ae12946e801a18",
-    "url": "/anaelle-aa-blog/static/css/main.782008d4.chunk.css"
+    "revision": "a615b2470380babcb701",
+    "url": "/anaelle-aa-blog/static/css/main.64c3668c.chunk.css"
   },
   {
-    "revision": "c20ee0e963edf311112e",
-    "url": "/anaelle-aa-blog/static/js/2.cf89589b.chunk.js"
+    "revision": "a033f7166e667d09c936",
+    "url": "/anaelle-aa-blog/static/js/2.52af1c76.chunk.js"
   },
   {
     "revision": "d77c619ca2e803ff4203c09914a159e3",
-    "url": "/anaelle-aa-blog/static/js/2.cf89589b.chunk.js.LICENSE.txt"
+    "url": "/anaelle-aa-blog/static/js/2.52af1c76.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a6df96ae12946e801a18",
-    "url": "/anaelle-aa-blog/static/js/main.3b734aa6.chunk.js"
+    "revision": "a615b2470380babcb701",
+    "url": "/anaelle-aa-blog/static/js/main.559f799a.chunk.js"
   },
   {
     "revision": "9d1501c62a9ad114b79c",
@@ -66,6 +66,30 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0a8f0dff9d80807d7c29bb251e6dce5b",
     "url": "/anaelle-aa-blog/static/media/hero-bg.0a8f0dff.jpg"
+  },
+  {
+    "revision": "662e12b6fe30ddc361dbbfa030b29af7",
+    "url": "/anaelle-aa-blog/static/media/multiplication1.662e12b6.png"
+  },
+  {
+    "revision": "a7bc10ebc5502cb19207221ff24170d9",
+    "url": "/anaelle-aa-blog/static/media/multiplication2.a7bc10eb.png"
+  },
+  {
+    "revision": "a6c16ea4974c870ef2897526b8ac8822",
+    "url": "/anaelle-aa-blog/static/media/multiplication3.a6c16ea4.png"
+  },
+  {
+    "revision": "7aa9bb4b7c52c5bbd5198c8875b47f4b",
+    "url": "/anaelle-aa-blog/static/media/multiplication4.7aa9bb4b.png"
+  },
+  {
+    "revision": "54c3f203ef3967f54106084fcd974023",
+    "url": "/anaelle-aa-blog/static/media/multiplication5.54c3f203.png"
+  },
+  {
+    "revision": "b66c86f656d7bdc49c03e0efcd6140ed",
+    "url": "/anaelle-aa-blog/static/media/multiplication5resized.b66c86f6.png"
   },
   {
     "revision": "902df0b098dfed9586693ac4e688a5f1",
