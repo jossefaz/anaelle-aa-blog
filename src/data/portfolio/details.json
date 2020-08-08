@@ -11,7 +11,7 @@
     "videos": [
       {
         "file": "mouvement/mouvement1.mp4",
-        "poster": "mouvement/mouvement1.jpg"
+        "poster": "mouvement/mouvement2.jpg"
       },
       {
         "file": "mouvement/mouvement2.mp4",
@@ -19,7 +19,7 @@
       },
       {
         "file": "mouvement/mouvement3.mp4",
-        "poster": "mouvement/mouvement1.jpg"
+        "poster": "mouvement/mouvement3.jpg"
       }
     ],
     "link": "mouvement",
@@ -92,7 +92,8 @@
       "cordon/cordon2.jpg",
       "cordon/cordon3.jpg",
       "cordon/cordon4.jpg",
-      "cordon/cordon5.jpg"
+      "cordon/cordon5.jpg",
+      "cordon/cordon6.jpg"
     ],
     "link": "Cordon-Ombilical",
     "meta": {
