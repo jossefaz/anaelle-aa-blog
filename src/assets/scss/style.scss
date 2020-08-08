@@ -1,9 +1,4 @@
 /*-----------------------------------------------------------------------------------
-
-    Template Name: Minimau - Creative Minimal portfolio Bootstrap4 Template
-    Version: 1.0
-
------------------------------------------------------------------------------------
     
     CSS INDEX
     ===================
@@ -27,21 +22,21 @@
     15. Color Variation CSS
 
 -----------------------------------------------------------------------------------*/
-@import 'variabls';
-@import 'common';
-@import 'header';
-@import 'hero';
-@import 'about';
-@import 'service';
-@import 'portfolio';
-@import 'blog';
-@import 'sidebar';
-@import 'comment';
-@import 'team';
-@import 'contact';
-@import 'error-404';
-@import 'testimonial';
-@import 'footer';
+@import "variabls";
+@import "common";
+@import "header";
+@import "hero";
+@import "about";
+@import "service";
+@import "portfolio";
+@import "blog";
+@import "sidebar";
+@import "comment";
+@import "team";
+@import "contact";
+@import "error-404";
+@import "testimonial";
+@import "footer";
 // Dark & Color Version
-@import 'dark';
-@import 'color';
+@import "dark";
+@import "color";
