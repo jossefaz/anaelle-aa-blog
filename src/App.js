@@ -1,18 +1,19 @@
-import React from "react";
+import React, { lazy } from "react";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 /*
  * @ Component Imported
  * */
 
-import Home from "./pages/home/HomeFourColumn";
-import PortfolioGridThreeColumnPage from "./pages/portfolio/grid/three-column";
-import PortfolioDetailsPage from "./pages/portfolio/details";
+import Home from "./pages/portfolio/grid/three-column";
+import LazyRoute from "./components/LazyRoute";
 import AboutPage from "./pages/about";
 import ServicePage from "./pages/service";
 import TeamPage from "./pages/team";
 import ContactPage from "./pages/contact";
 import ErrorPage from "./pages/404Error";
+
+const Details = lazy(() => import("./pages/portfolio/details"));
 
 const App = () => {
   return (
@@ -32,23 +33,13 @@ const App = () => {
         />
         <Route
           path={`${process.env.PUBLIC_URL}/portfolio-details/:link`}
-          component={(props) => {
-            const link = props.match.params.link;
-            if (link) {
-              return <PortfolioDetailsPage link={link} />;
-            }
-            return <ErrorPage />;
-          }}
+          component={LazyRoute(Details)}
         />
-
         <Route
           path={`${process.env.PUBLIC_URL + "/about"}`}
           component={AboutPage}
         />
-        <Route
-          path={`${process.env.PUBLIC_URL + "/"}`}
-          component={PortfolioGridThreeColumnPage}
-        />
+        <Route path={`${process.env.PUBLIC_URL + "/"}`} component={Home} />
 
         <Route exact component={ErrorPage} />
       </Switch>
