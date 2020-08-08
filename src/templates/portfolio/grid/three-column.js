@@ -11,7 +11,6 @@ const PortfolioGridThreeColumn = ({ portfolios, loading, fullWidth }) => {
         <Container fluid={!!fullWidth} className={fullWidth ? "p-0" : null}>
           <Row className={"row-7 portfolio-column-three"}>
             {portfolios.map((portfolio) => {
-              console.log("portfolio", portfolio);
               return (
                 <Col key={portfolio.id} md={6} lg={4} className={"mb-15"}>
                   <Portfolio

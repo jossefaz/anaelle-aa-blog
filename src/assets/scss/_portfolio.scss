@@ -11,6 +11,8 @@
     display: block;
     position: relative;
     z-index: 1;
+    filter: grayscale(1);
+    -webkit-filter: grayscale(1);
 
     &::before {
       content: "";
@@ -83,16 +85,15 @@
 
   &:hover {
     & .portfolio-image {
-      &::before {
-        opacity: 0.8;
-      }
+      filter: grayscale(0);
+      -webkit-filter: grayscale(0);
     }
 
     & .portfolio-content {
-
       & .title {
         transform: translateY(0);
         opacity: 1;
+        background: rgba(255, 255, 255, 0.479);
       }
 
       & .category {
@@ -109,7 +110,7 @@
       background-size: cover;
 
       // Responsive
-      @media #{$large-mobile}{
+      @media #{$large-mobile} {
         min-height: 335px;
       }
     }
@@ -148,7 +149,7 @@
     }
 
     // Responsive
-    @media #{$large-mobile}{
+    @media #{$large-mobile} {
       font-size: 14px;
     }
   }
@@ -163,23 +164,23 @@
     max-width: 20%;
 
     // Responsive
-    @media #{$laptop-device}{
+    @media #{$laptop-device} {
       flex: 1 0 25%;
       max-width: 25%;
     }
-    @media #{$desktop-device}{
+    @media #{$desktop-device} {
       flex: 1 0 33.33%;
       max-width: 33.33%;
     }
-    @media #{$tablet-device}{
+    @media #{$tablet-device} {
       flex: 1 0 50%;
       max-width: 50%;
     }
-    @media #{$large-mobile}{
+    @media #{$large-mobile} {
       flex: 1 0 50%;
       max-width: 50%;
     }
-    @media #{$small-mobile}{
+    @media #{$small-mobile} {
       flex: 1 0 100%;
       max-width: 100%;
     }
@@ -187,7 +188,8 @@
 }
 
 /*-- portfolio Four & Three Column Wrap --*/
-.portfolio-column-four, .portfolio-column-three {
+.portfolio-column-four,
+.portfolio-column-three {
   margin-bottom: -15px;
 }
 
@@ -209,11 +211,11 @@
   }
 
   // Responsive
-  @media #{$large-mobile}{
+  @media #{$large-mobile} {
     font-size: 14px;
   }
 
-  &.disabled{
+  &.disabled {
     opacity: 0.3;
     pointer-events: none;
   }
@@ -236,10 +238,10 @@
   padding-left: 30px;
 
   // Responsive
-  @media #{$tablet-device}{
+  @media #{$tablet-device} {
     padding-left: 15px;
   }
-  @media #{$large-mobile}{
+  @media #{$large-mobile} {
     padding-left: 15px;
   }
 
@@ -265,7 +267,7 @@
     letter-spacing: 1px;
 
     // Responsive
-    @media #{$large-mobile}{
+    @media #{$large-mobile} {
       font-size: 24px;
     }
   }
