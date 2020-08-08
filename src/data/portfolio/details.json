@@ -68,6 +68,58 @@
     }
   },
   {
+    "title": "Determinism",
+    "category": "",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquid, praesentium et quis architecto quae beatae, vero repellendus odit temporibus asperiores hic modi laudantium. Beatae alias vero deleniti sed illum iste id laboriosam quisquam! Hic necessitatibus enim consequatur reiciendis dolorem debitis aspernatur in, perspiciatis veritatis, et neque explicabo dolore atque. Incidunt, ipsam natus quis saepe vero optio labore iure corporis quo autem nemo commodi suscipit atque quasi quos repudiandae, odit at. Vitae corrupti suscipit, deserunt, at vel impedit magnam eos ab eaque reprehenderit ad dolorum! Totam quos modi ipsa aliquam quis voluptas placeat consequatur illum culpa animi tempora optio quisquam illo sequi pariatur ex, soluta incidunt sunt. Illo ea amet cum expedita ad, quod a aut quibusdam quidem sapiente nemo dignissimos! Eius pariatur corrupti nam nemo accusantium, velit fugit aspernatur optio nulla quisquam perferendis, dolore dolorum ex incidunt earum magnam ducimus ipsam quibusdam libero eos eligendi repellat a soluta aperiam. Voluptas deserunt blanditiis quibusdam nisi rem illum fuga, nobis eligendi mollitia similique odio dolorem, necessitatibus perspiciatis harum. Autem tempore similique quaerat hic reiciendis error commodi consequatur nostrum ipsa ratione! Optio eius excepturi in aspernatur necessitatibus odio sint officiis odit? Quam asperiores iste, totam maxime vitae est alias laboriosam rem deserunt dolores itaque voluptates officiis quas eos odit excepturi reiciendis maiores esse quidem non facilis harum sed praesentium dolor. Ipsam, non repellendus! Esse consectetur eaque laboriosam ipsam animi aperiam officia cupiditate voluptas inventore cum magnam repellendus repudiandae, ad mollitia itaque cumque. Ducimus omnis labore facilis recusandae. Dignissimos esse obcaecati cum tempora non.",
+    "previewImages": [
+      "determinism/determinism1.jpg",
+      "determinism/determinism2.jpg",
+      "determinism/determinism3.jpg",
+      "determinism/determinism4.jpg"
+    ],
+    "link": "determinism",
+    "meta": {
+      "Supervisor": "Dany S",
+      "Materials and technique": "Metal"
+    }
+  },
+  {
+    "title": "Cordon Ombilical",
+    "category": "",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquid, praesentium et quis architecto quae beatae, vero repellendus odit temporibus asperiores hic modi laudantium. Beatae alias vero deleniti sed illum iste id laboriosam quisquam! Hic necessitatibus enim consequatur reiciendis dolorem debitis aspernatur in, perspiciatis veritatis, et neque explicabo dolore atque. Incidunt, ipsam natus quis saepe vero optio labore iure corporis quo autem nemo commodi suscipit atque quasi quos repudiandae, odit at. Vitae corrupti suscipit, deserunt, at vel impedit magnam eos ab eaque reprehenderit ad dolorum! Totam quos modi ipsa aliquam quis voluptas placeat consequatur illum culpa animi tempora optio quisquam illo sequi pariatur ex, soluta incidunt sunt. Illo ea amet cum expedita ad, quod a aut quibusdam quidem sapiente nemo dignissimos! Eius pariatur corrupti nam nemo accusantium, velit fugit aspernatur optio nulla quisquam perferendis, dolore dolorum ex incidunt earum magnam ducimus ipsam quibusdam libero eos eligendi repellat a soluta aperiam. Voluptas deserunt blanditiis quibusdam nisi rem illum fuga, nobis eligendi mollitia similique odio dolorem, necessitatibus perspiciatis harum. Autem tempore similique quaerat hic reiciendis error commodi consequatur nostrum ipsa ratione! Optio eius excepturi in aspernatur necessitatibus odio sint officiis odit? Quam asperiores iste, totam maxime vitae est alias laboriosam rem deserunt dolores itaque voluptates officiis quas eos odit excepturi reiciendis maiores esse quidem non facilis harum sed praesentium dolor. Ipsam, non repellendus! Esse consectetur eaque laboriosam ipsam animi aperiam officia cupiditate voluptas inventore cum magnam repellendus repudiandae, ad mollitia itaque cumque. Ducimus omnis labore facilis recusandae. Dignissimos esse obcaecati cum tempora non.",
+    "previewImages": [
+      "cordon/cordon1.jpg",
+      "cordon/cordon2.jpg",
+      "cordon/cordon3.jpg",
+      "cordon/cordon4.jpg",
+      "cordon/cordon5.jpg"
+    ],
+    "link": "Cordon-Ombilical",
+    "meta": {
+      "Supervisor": "Dany S",
+      "Materials and technique": "Metal"
+    }
+  },
+  {
+    "title": "Plus",
+    "category": "",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquid, praesentium et quis architecto quae beatae, vero repellendus odit temporibus asperiores hic modi laudantium. Beatae alias vero deleniti sed illum iste id laboriosam quisquam! Hic necessitatibus enim consequatur reiciendis dolorem debitis aspernatur in, perspiciatis veritatis, et neque explicabo dolore atque. Incidunt, ipsam natus quis saepe vero optio labore iure corporis quo autem nemo commodi suscipit atque quasi quos repudiandae, odit at. Vitae corrupti suscipit, deserunt, at vel impedit magnam eos ab eaque reprehenderit ad dolorum! Totam quos modi ipsa aliquam quis voluptas placeat consequatur illum culpa animi tempora optio quisquam illo sequi pariatur ex, soluta incidunt sunt. Illo ea amet cum expedita ad, quod a aut quibusdam quidem sapiente nemo dignissimos! Eius pariatur corrupti nam nemo accusantium, velit fugit aspernatur optio nulla quisquam perferendis, dolore dolorum ex incidunt earum magnam ducimus ipsam quibusdam libero eos eligendi repellat a soluta aperiam. Voluptas deserunt blanditiis quibusdam nisi rem illum fuga, nobis eligendi mollitia similique odio dolorem, necessitatibus perspiciatis harum. Autem tempore similique quaerat hic reiciendis error commodi consequatur nostrum ipsa ratione! Optio eius excepturi in aspernatur necessitatibus odio sint officiis odit? Quam asperiores iste, totam maxime vitae est alias laboriosam rem deserunt dolores itaque voluptates officiis quas eos odit excepturi reiciendis maiores esse quidem non facilis harum sed praesentium dolor. Ipsam, non repellendus! Esse consectetur eaque laboriosam ipsam animi aperiam officia cupiditate voluptas inventore cum magnam repellendus repudiandae, ad mollitia itaque cumque. Ducimus omnis labore facilis recusandae. Dignissimos esse obcaecati cum tempora non.",
+    "previewImages": [
+      "plus/plus1.jpg",
+      "plus/plus2.jpg",
+      "plus/plus3.jpg",
+      "plus/plus4.jpg",
+      "plus/plus5.jpg",
+      "plus/plus6.jpg",
+      "plus/plus7.jpg"
+    ],
+    "link": "plus",
+    "meta": {
+      "Supervisor": "Dany S",
+      "Materials and technique": "Metal"
+    }
+  },
+  {
     "title": "Ketem",
     "category": "",
     "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquid, praesentium et quis architecto quae beatae, vero repellendus odit temporibus asperiores hic modi laudantium. Beatae alias vero deleniti sed illum iste id laboriosam quisquam! Hic necessitatibus enim consequatur reiciendis dolorem debitis aspernatur in, perspiciatis veritatis, et neque explicabo dolore atque. Incidunt, ipsam natus quis saepe vero optio labore iure corporis quo autem nemo commodi suscipit atque quasi quos repudiandae, odit at. Vitae corrupti suscipit, deserunt, at vel impedit magnam eos ab eaque reprehenderit ad dolorum! Totam quos modi ipsa aliquam quis voluptas placeat consequatur illum culpa animi tempora optio quisquam illo sequi pariatur ex, soluta incidunt sunt. Illo ea amet cum expedita ad, quod a aut quibusdam quidem sapiente nemo dignissimos! Eius pariatur corrupti nam nemo accusantium, velit fugit aspernatur optio nulla quisquam perferendis, dolore dolorum ex incidunt earum magnam ducimus ipsam quibusdam libero eos eligendi repellat a soluta aperiam. Voluptas deserunt blanditiis quibusdam nisi rem illum fuga, nobis eligendi mollitia similique odio dolorem, necessitatibus perspiciatis harum. Autem tempore similique quaerat hic reiciendis error commodi consequatur nostrum ipsa ratione! Optio eius excepturi in aspernatur necessitatibus odio sint officiis odit? Quam asperiores iste, totam maxime vitae est alias laboriosam rem deserunt dolores itaque voluptates officiis quas eos odit excepturi reiciendis maiores esse quidem non facilis harum sed praesentium dolor. Ipsam, non repellendus! Esse consectetur eaque laboriosam ipsam animi aperiam officia cupiditate voluptas inventore cum magnam repellendus repudiandae, ad mollitia itaque cumque. Ducimus omnis labore facilis recusandae. Dignissimos esse obcaecati cum tempora non.",

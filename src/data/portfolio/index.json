@@ -43,21 +43,24 @@
   },
   {
     "id": 7,
-    "title": "Hardcover Book Cover",
-    "category": "Photography",
-    "thumb": "portfolio/portfolio-7.jpg"
+    "title": "Determinism",
+    "category": "",
+    "link": "determinism",
+    "thumb": "portfolio/determinism/determinism0.jpg"
   },
   {
     "id": 8,
-    "title": "Flying Macbook",
-    "category": "Markup",
-    "thumb": "portfolio/portfolio-8.jpg"
+    "title": "Cordon Ombilical",
+    "link": "Cordon-Ombilical",
+    "category": "",
+    "thumb": "portfolio/cordon/cordon0.jpg"
   },
   {
     "id": 9,
-    "title": "Portfolio Lorem ipsum",
-    "category": "Markup",
-    "thumb": "portfolio/portfolio-9.jpg"
+    "title": "Plus",
+    "category": "",
+    "link": "plus",
+    "thumb": "portfolio/plus/plus0.jpg"
   },
   {
     "id": 10,
