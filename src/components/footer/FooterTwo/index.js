@@ -2,7 +2,7 @@ import React from "react";
 import socialIcons from "../../../data/SocialNetworks";
 const FooterTwo = ({ loadHandler, allItems }) => {
   return (
-    <div className="footer-section position-fixed section pt-30 pb-30">
+    <div className="footer-section position-fixed section pb-15">
       <div className="container-fluid">
         <div className="row align-items-center">
           {socialIcons.map((social) => (

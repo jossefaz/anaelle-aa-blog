@@ -85,11 +85,11 @@
         font-weight: 500;
         letter-spacing: 1px;
         color: $body-color;
-        padding: 40px 0;
+        padding: 20px 0;
         transition: 0.4s;
         text-transform: uppercase;
 
-        &.active{
+        &.active {
           color: $heading-color;
           font-weight: 600;
         }
@@ -203,11 +203,8 @@
         right: 100%;
       }
     }
-
   }
 }
-
-
 
 /*-- header Social --*/
 .header-social {
@@ -249,7 +246,6 @@
     display: inline-flex;
   }
 }
-
 
 /*-----
   02.02 Side header
@@ -511,7 +507,6 @@
           color: $white;
         }
       }
-
     }
 
     &.current,
@@ -528,10 +523,8 @@
     }
   }
 
-
   /*-- Side Sub Menu --*/
   .sub-menu {
-
     & > li {
       margin-bottom: 10px;
 
@@ -563,7 +556,6 @@
             color: $white;
           }
         }
-
       }
 
       &.current,

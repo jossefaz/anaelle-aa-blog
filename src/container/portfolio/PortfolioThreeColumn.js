@@ -13,7 +13,7 @@ const PortfolioThreeColumn = ({ portfolios, loading }) => {
         <div
           style={{
             display: "flex",
-            maxHeight: isMobile ? "auto" : "calc(100vh - 200px)",
+            maxHeight: isMobile ? "auto" : "calc(100vh - 8em)",
           }}
         >
           <Scrollbar options={{ suppressScrollX: true }} enable={!isMobile}>

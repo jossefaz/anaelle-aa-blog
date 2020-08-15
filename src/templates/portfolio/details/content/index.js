@@ -1,6 +1,7 @@
 import React from "react";
 
 const PortfolioDetailsContent = ({ title, category, description, meta }) => {
+  const desc = description.split("\n");
   return (
     <div className="portfolio-details-content">
       <a href="/" className="category">
@@ -9,7 +10,7 @@ const PortfolioDetailsContent = ({ title, category, description, meta }) => {
 
       <h1 className="title">{title}</h1>
 
-      <p>{description}</p>
+      <p style={{ whiteSpace: "break-spaces" }}>{description}</p>
 
       <ul className="project-info">
         {Object.keys(meta).map((metaName) => (
